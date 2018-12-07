@@ -1,0 +1,24 @@
+.icone {
+	width: 200px;
+	height: 200px;
+	font-weight: bold;
+}
+
+.background-white {cursor: zoom-in;
+	background-color: white;
+	padding-bottom: 10px;
+
+}
+
+.background-white h2 {cursor: zoom-in;
+	color: black;
+	padding-top: 50px;
+	font-family: 'Lato', sans-serif;
+	background-color: white;
+}
+
+.background-blue {cursor: zoom-in;
+	background-color: #88C0ED;
+	padding-top: 50px;
+	font-family: 'Lato', sans-serif;
+}

@@ -1,0 +1,18 @@
+.banner-image {
+	cursor: zoom-in;
+	background-image: url("https://github.com/eddz92/My-site/blob/banner/images/polo.jpg?raw=true");
+	height: calc(100vh - 135px);
+	background-size: cover;
+	background-position: top;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	text-align: center;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+}
+
+/*.banner-content-background {
+	background-color: rgba(255,255,255, 0.5);
+	padding: 30px;
+}*/

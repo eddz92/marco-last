@@ -1,0 +1,38 @@
+.footer { 
+color: black; 
+padding: 20px; 
+display: inline-flex;
+font-family:'open sans',sans-serif;
+}
+
+.footer-left {
+padding-bottom: 40px;
+padding-left: 10px; 
+line-height: 20px;
+padding-bottom: 50px; 
+font-family:'open sans',sans-serif;
+}
+
+.footer-center {
+padding-top: 30px; 
+padding-left: 400px; 
+padding-right: 400px; 
+line-height: 5px;
+letter-spacing: 3px;
+font-family:'open sans',sans-serif;
+}
+
+.footer-right {
+	padding-top: 30px;
+	line-height: 5px;
+letter-spacing: 5px;
+font-family:'open sans',sans-serif;
+}
+
+.marco {
+width: 50px; 
+height: 25px; 
+margin-top: 25px; 
+margin-bottom: 15px; 
+margin-left: 20px; 
+}

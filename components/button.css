@@ -1,0 +1,47 @@
+.android {cursor: zoom-in;
+	background-color: white;
+	border: none;
+    color: #a4c639;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    font-weight:bold;
+} 
+.btn-app-store{
+	cursor:zoom-in;
+    background: black;
+	color: white;
+	position: relative;
+	height: 60px;
+	padding-left: 55px;
+	padding-right: 20px;
+}
+.btn-app-store i{
+	cursor: zoom-in;
+	font-size: 40px;
+	position: absolute;
+	left: 10px;
+	background-color: black;
+}
+.btn-app-store .small{
+	cursor: zoom-in;
+	display: block;
+	font-size: 12px;
+	line-height: 12px;
+	margin-bottom: 2px;
+    margin-top: 5px;
+    background-color: black;
+}
+.btn-app-store .big{
+	cursor: zoom-in;
+	display: block;
+	text-align: left;
+	font-size: 21px;
+	line-height: 21px;
+	background-color: black;
+}
